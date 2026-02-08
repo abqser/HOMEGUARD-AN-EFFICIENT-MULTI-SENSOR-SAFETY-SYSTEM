@@ -60,15 +60,6 @@ Communication Protocol: I2C (for LCD)
 
 The Arduino program continuously monitors the sensor inputs and displays the corresponding alert message on the LCD whenever a sensor is triggered.
 
-📁 Repository Structure
-
-HomeGuard/
-├── Arduino_Code/
-│ └── homeguard.ino
-├── Documents/
-│ └── HomeGuard_Block_Diagram.pdf
-└── README.md
-
 🌐 Future Enhancements
 
 Integration of ESP32 for IoT connectivity
