@@ -1,0 +1,35 @@
+# Arduino Pin Configuration – HomeGuard System
+
+This document describes the pin connections between the Arduino Nano and various sensors used in the HomeGuard multi-sensor safety system.
+
+## Digital Input Pins
+
+| Arduino Pin | Connected Component            | Description                         |
+|------------|--------------------------------|-------------------------------------|
+| D2         | PIR Motion Sensor              | Detects abnormal motion             |
+| D3         | Magnetic Gate Sensor           | Detects main gate open/close         |
+| D4         | Magnetic Door Sensor           | Detects main door open/close         |
+| D5         | Water Level Sensor             | Detects high water level             |
+| D6         | Rain Sensor                    | Detects rain condition               |
+| D7         | High Voltage Detection Module  | Detects abnormal AC voltage          |
+| D8         | LDR (Light Sensor)             | Detects ambient light changes        |
+
+## I2C Interface
+
+| Arduino Pin | Component | Description           |
+|------------|-----------|-----------------------|
+| A4         | SDA       | LCD data line         |
+| A5         | SCL       | LCD clock line        |
+
+## Output Components
+
+- 16x2 LCD with I2C module for alert display
+- LEDs for individual sensor indication
+- Relay modules for automatic safety control
+
+## Notes
+- All digital pins are configured as INPUT in the program.
+- Proper pull-up or pull-down resistors are used where required.
+- Power supply connections are isolated for safety.
+
+
